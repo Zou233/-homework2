@@ -28,15 +28,16 @@
 
 点击按钮查看提案信息：
 
-![Untitled](README e34615ba98094ae6af02427a016dbe51\Untitled.png)
+![avatar](./Untitled.png)
+
 
 点击按钮发起提案：
 
-![Untitled](README%20e34615ba98094ae6af02427a016dbe51/Untitled%201.png)
+![avatar](./Untitled%20(1).png)
 
 点击按钮同意提案（不同意同理）：
 
-![Untitled](README%20e34615ba98094ae6af02427a016dbe51/Untitled%202.png)
+![avatar](./Untitled%20(2).png)
 
 ## 参考内容
 
